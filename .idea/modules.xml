@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exam/exam-dao/exam-dao.iml" filepath="$PROJECT_DIR$/exam/exam-dao/exam-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam-dao/exam-dao-teaching/exam-dao-teaching.iml" filepath="$PROJECT_DIR$/exam/exam-dao/exam-dao-teaching/exam-dao-teaching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam-service/exam-service.iml" filepath="$PROJECT_DIR$/exam/exam-service/exam-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam-web/exam-web.iml" filepath="$PROJECT_DIR$/exam/exam-web/exam-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zzk4spring-boot-and-cloud.iml" filepath="$PROJECT_DIR$/.idea/zzk4spring-boot-and-cloud.iml" />
+    </modules>
+  </component>
+</project>
