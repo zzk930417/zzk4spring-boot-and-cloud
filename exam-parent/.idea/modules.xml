@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/exam-app/exam-app.iml" filepath="$PROJECT_DIR$/exam-app/exam-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-common/exam-common.iml" filepath="$PROJECT_DIR$/exam-common/exam-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/exam-dao/exam-dao.iml" filepath="$PROJECT_DIR$/exam-dao/exam-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/exam-dao/exam-dao-teaching/exam-dao-teaching.iml" filepath="$PROJECT_DIR$/exam-dao/exam-dao-teaching/exam-dao-teaching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-system/exam-eureka-master/exam-eureka-master.iml" filepath="$PROJECT_DIR$/exam-system/exam-eureka-master/exam-eureka-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/exam-parent.iml" filepath="$PROJECT_DIR$/exam-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-service/exam-service.iml" filepath="$PROJECT_DIR$/exam-service/exam-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-service/exam-service-one/exam-service-one.iml" filepath="$PROJECT_DIR$/exam-service/exam-service-one/exam-service-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-service/exam-service-three/exam-service-three.iml" filepath="$PROJECT_DIR$/exam-service/exam-service-three/exam-service-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-service/exam-service-two/exam-service-two.iml" filepath="$PROJECT_DIR$/exam-service/exam-service-two/exam-service-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-system/exam-system.iml" filepath="$PROJECT_DIR$/exam-system/exam-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-app/exam-web-one/exam-web-one.iml" filepath="$PROJECT_DIR$/exam-app/exam-web-one/exam-web-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-app/exam-web-two/exam-web-two.iml" filepath="$PROJECT_DIR$/exam-app/exam-web-two/exam-web-two.iml" />
     </modules>
   </component>
 </project>

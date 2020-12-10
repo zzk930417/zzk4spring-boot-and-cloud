@@ -5,6 +5,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/exam-dao/exam-dao-teaching/pom.xml" />
+        <option value="$PROJECT_DIR$/exam-service/exam-service-one/pom.xml" />
+        <option value="$PROJECT_DIR$/exam-service/exam-service-two/pom.xml" />
+        <option value="$PROJECT_DIR$/exam-service/exam-service-three/pom.xml" />
+        <option value="$PROJECT_DIR$/exam-app/exam-web-one/pom.xml" />
+        <option value="$PROJECT_DIR$/exam-app/exam-web-two/pom.xml" />
+        <option value="$PROJECT_DIR$/exam-system/exam-eureka-master/pom.xml" />
       </list>
     </option>
   </component>

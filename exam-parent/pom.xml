@@ -5,6 +5,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>exam-dao</module>
+        <module>exam-service</module>
+        <module>exam-app</module>
+        <module>exam-common</module>
+        <module>exam-system</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

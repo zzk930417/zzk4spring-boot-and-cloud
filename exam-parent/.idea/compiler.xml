@@ -6,14 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="exam-dao" />
+        <module name="exam-common" />
         <module name="exam-dao-teaching" />
+        <module name="exam-eureka-master" />
+        <module name="exam-service-one" />
+        <module name="exam-service-three" />
+        <module name="exam-service-two" />
+        <module name="exam-system" />
+        <module name="exam-web-one" />
+        <module name="exam-web-two" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="exam-app" target="1.8" />
+      <module name="exam-common" target="1.8" />
       <module name="exam-dao" target="1.8" />
       <module name="exam-dao-teaching" target="1.8" />
+      <module name="exam-eureka-master" target="1.8" />
       <module name="exam-parent" target="1.8" />
+      <module name="exam-service" target="1.8" />
+      <module name="exam-service-one" target="1.8" />
+      <module name="exam-service-three" target="1.8" />
+      <module name="exam-service-two" target="1.8" />
+      <module name="exam-system" target="1.8" />
+      <module name="exam-web-one" target="1.8" />
+      <module name="exam-web-two" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
