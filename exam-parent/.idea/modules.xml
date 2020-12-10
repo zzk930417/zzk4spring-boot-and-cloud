@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exam-dao/exam-dao.iml" filepath="$PROJECT_DIR$/exam-dao/exam-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-dao/exam-dao-teaching/exam-dao-teaching.iml" filepath="$PROJECT_DIR$/exam-dao/exam-dao-teaching/exam-dao-teaching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-parent.iml" filepath="$PROJECT_DIR$/exam-parent.iml" />
+    </modules>
+  </component>
+</project>
